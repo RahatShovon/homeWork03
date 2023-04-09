@@ -1,0 +1,46 @@
+body{
+	background: url(../img/cat.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1{
+	background-color: saddlebrown;
+	text-align: center;
+	text-transform: uppercase;
+	border-color: blue;
+}
+
+h2{
+	background-color: brown;
+	text-align: center;
+	text-transform: uppercase;
+	border-color: blue;
+}
+
+h3{
+	background-color: tomato;
+	text-align: center;
+	text-transform: uppercase;
+	border-color: blue;
+}
+
+a{
+	background-color: blue;
+	color: #fff;
+	text-decoration: none;
+	padding: 10px;
+	border: none;
+}
+
+.text{
+	color: #fff;
+}
+
+#h1{
+	border-style: dotted;
+}
+
+#h2{
+	border-style: dashed;
+}
